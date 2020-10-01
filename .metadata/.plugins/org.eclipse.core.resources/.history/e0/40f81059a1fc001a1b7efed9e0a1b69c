@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<meta charset="ISO-8859-1">
+<body bgcolor="silver">
+<form action="fs" method="post">
+<label>Name:</label>
+<input type="text" name="nm">
+</form>
+</body>
+</html>

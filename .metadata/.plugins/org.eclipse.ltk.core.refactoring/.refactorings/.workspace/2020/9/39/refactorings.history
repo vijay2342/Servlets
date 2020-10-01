@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Cookies/WebContent/WEB-INF/form.html&apos;" deleteContents="false" description="Delete resource &apos;Cookies/WebContent/WEB-INF/form.html&apos;" element1="/Cookies/WebContent/WEB-INF/form.html" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1600757897764"/>&#x0A;<refactoring comment="Delete resource &apos;Cookies/WebContent/WEB-INF/web.xml&apos;" deleteContents="false" description="Delete resource &apos;Cookies/WebContent/WEB-INF/web.xml&apos;" element1="/Cookies/WebContent/WEB-INF/web.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1600757911075"/>
+</session>
